@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/sk-solution.com/static/css/main.a68f3770.chunk.css",
+    "main.js": "/sk-solution.com/static/js/main.11836710.chunk.js",
+    "main.js.map": "/sk-solution.com/static/js/main.11836710.chunk.js.map",
+    "runtime-main.js": "/sk-solution.com/static/js/runtime-main.5d1886e3.js",
+    "runtime-main.js.map": "/sk-solution.com/static/js/runtime-main.5d1886e3.js.map",
+    "static/css/2.d9ad5f5c.chunk.css": "/sk-solution.com/static/css/2.d9ad5f5c.chunk.css",
+    "static/js/2.ed1244e2.chunk.js": "/sk-solution.com/static/js/2.ed1244e2.chunk.js",
+    "static/js/2.ed1244e2.chunk.js.map": "/sk-solution.com/static/js/2.ed1244e2.chunk.js.map",
+    "index.html": "/sk-solution.com/index.html",
+    "precache-manifest.ae2ad9f322b552e225629761af2c3f3c.js": "/sk-solution.com/precache-manifest.ae2ad9f322b552e225629761af2c3f3c.js",
+    "service-worker.js": "/sk-solution.com/service-worker.js",
+    "static/css/2.d9ad5f5c.chunk.css.map": "/sk-solution.com/static/css/2.d9ad5f5c.chunk.css.map",
+    "static/css/main.a68f3770.chunk.css.map": "/sk-solution.com/static/css/main.a68f3770.chunk.css.map",
+    "static/js/2.ed1244e2.chunk.js.LICENSE.txt": "/sk-solution.com/static/js/2.ed1244e2.chunk.js.LICENSE.txt",
+    "static/media/aboutus.png": "/sk-solution.com/static/media/aboutus.0e824c39.png",
+    "static/media/home1.gif": "/sk-solution.com/static/media/home1.8af9a6cb.gif"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5d1886e3.js",
+    "static/css/2.d9ad5f5c.chunk.css",
+    "static/js/2.ed1244e2.chunk.js",
+    "static/css/main.a68f3770.chunk.css",
+    "static/js/main.11836710.chunk.js"
+  ]
+}
