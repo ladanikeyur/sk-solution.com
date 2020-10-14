@@ -6,7 +6,7 @@ const Home = () =>{
 
 	return(
 		<>
-			<ScrollAnimation animateIn="jello" duration={2}>
+			<ScrollAnimation animateIn="jello" duration={2} animateOnce={true}>
 			<div className='row homediv mb-5' id="hom">
 				<div className=" col-sm-5 homefont">
 					<h1 className="hometext">Better experince<br/> with us .</h1>

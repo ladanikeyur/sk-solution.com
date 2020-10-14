@@ -11,7 +11,7 @@ const Team =() =>{
 				<div className=" container pb-5">
 				<div className="row">
 					<div className="col-sm-4 card-aling m-auto d-block">
-						<ScrollAnimation animateIn="bounceInLeft" initiallyVisible={false} duration={1.7}>
+						<ScrollAnimation animateIn="bounceInLeft" initiallyVisible={false} duration={1.7} animateOnce={true}>
 						<div className="card mt-5 pt-3" style={{width:"300px"}}>
 							<div className=" d-block m-auto pt-3">
 								<div>
@@ -27,9 +27,9 @@ const Team =() =>{
 						</div>
 						</ScrollAnimation>
 					</div>
-					
+					 animateOnce={true}
 					<div className="col-sm-4 card-aling mr-auto d-block">
-						<ScrollAnimation animateIn="bounceInRight" initiallyVisible={false} duration={1.7}>
+						<ScrollAnimation animateIn="bounceInRight" initiallyVisible={false} duration={1.7} animateOnce={true}>
 						<div className="card  mt-5 pt-3 " style={{width:"300px"}}>
 							<div className=" d-block m-auto pt-3">
 								<div>

@@ -7,7 +7,7 @@ const About = () =>{
 	return(
 		<>	
   
-			<ScrollAnimation animateIn="zoomInDown" initiallyVisible={false} duration={1.8}>
+			<ScrollAnimation animateIn="zoomInDown" initiallyVisible={false} duration={1.8} animateOnce={true}>
 			<div className='row container-fluid mt-5' id="abt">
 				<div className='col-md-7'>
 					<img src={aboutimg} alt='not' className='abtimg img-fluid' />

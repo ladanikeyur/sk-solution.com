@@ -7,7 +7,7 @@ const Client = () =>{
 
 	return(
 		<>
-		<ScrollAnimation animateIn="bounceIn" initiallyVisible={false} duration={3}>
+		<ScrollAnimation animateIn="bounceIn" initiallyVisible={false} duration={3} animateOnce={true}>
 			<div className='client-div client-bg mt-5'>
 				<div className="container">
 					<div className='row text-center text-light'>
